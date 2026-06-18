@@ -1,4 +1,5 @@
 # personal_page
-personal updates
 
-initial commit
+Static personal academic website for Ziyun Li.
+
+Open `index.html` directly in a browser, or serve the folder with any static file server.
